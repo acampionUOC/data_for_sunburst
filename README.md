@@ -27,7 +27,7 @@ El autor del proyecto es:
 Clonar el repositorio para su instalación <br>
 
 '''
-git clone https://github.com/jferraguta/pythonProject1.git
+git clone https://github.com/acampionUOC/data_for_sunburst.git
 '''
 
 # Ejecución
